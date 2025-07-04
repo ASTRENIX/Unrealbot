@@ -125,5 +125,5 @@ async def on_command_error(ctx, error):
 
 # تشغيل البوت
 if __name__ == "__main__":
-    token = os.getenv('DISCORD_TOKEN', 'MTM4OTM5OTQzNDI2NTIzMTQ1MQ.GlU8uy.0WO9wNOW13Y4-o1cLg1ajejPW0MGS53CndSWpE')
+    token = os.getenv('DISCORD_TOKEN')
     bot.run(token)
