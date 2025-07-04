@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Unrealbot",
+			"path": "."
+		},
+		{
+			"name": ".git",
+			"path": "../../../Desktop/UnrealCommunityBot/UnrealCommunityBot/.git"
+		}
+	],
+	"settings": {}
+}
