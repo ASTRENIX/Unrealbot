@@ -1,0 +1,152 @@
+{
+  "users": {
+    "1095399787416801421": {
+      "user_id": "1095399787416801421",
+      "username": "3wbg",
+      "total_xp": 1812,
+      "voice_time": 735,
+      "messages_sent": 0,
+      "games_won": 0,
+      "last_daily": null,
+      "is_verified": false,
+      "join_date": "2025-07-02T06:36:48.606254"
+    },
+    "1382837970893148170": {
+      "user_id": "1382837970893148170",
+      "username": "User_1382837970893148170",
+      "total_xp": 310,
+      "voice_time": 703,
+      "messages_sent": 0,
+      "games_won": 0,
+      "last_daily": null,
+      "is_verified": false,
+      "join_date": "2025-07-02T10:59:28.406760"
+    },
+    "1390481550272892930": {
+      "user_id": "1390481550272892930",
+      "username": "User_1390481550272892930",
+      "total_xp": 14,
+      "voice_time": 78,
+      "messages_sent": 0,
+      "games_won": 0,
+      "last_daily": null,
+      "is_verified": false,
+      "join_date": "2025-07-04T04:42:55.492596"
+    }
+  },
+  "voice_activity": [
+    {
+      "id": 1,
+      "user_id": "1095399787416801421",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-02T03:34:52.817076",
+      "leave_time": "2025-07-02T03:36:48.605731",
+      "duration": 115,
+      "xp_earned": 2
+    },
+    {
+      "id": 2,
+      "user_id": "1095399787416801421",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-02T03:46:31.243379",
+      "leave_time": "2025-07-02T03:46:43.842722",
+      "duration": 12,
+      "xp_earned": 0
+    },
+    {
+      "id": 3,
+      "user_id": "1382837970893148170",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-02T07:58:43.814823",
+      "leave_time": "2025-07-02T07:59:28.406760",
+      "duration": 44,
+      "xp_earned": 0
+    },
+    {
+      "id": 4,
+      "user_id": "1095399787416801421",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-02T10:02:51.407423",
+      "leave_time": "2025-07-02T10:06:36.534111",
+      "duration": 225,
+      "xp_earned": 6
+    },
+    {
+      "id": 5,
+      "user_id": "1095399787416801421",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-02T13:47:51.412201",
+      "leave_time": "2025-07-02T13:51:05.515415",
+      "duration": 194,
+      "xp_earned": 6
+    },
+    {
+      "id": 6,
+      "user_id": "1095399787416801421",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-03T18:39:52.151465",
+      "leave_time": "2025-07-03T18:41:21.717881",
+      "duration": 89,
+      "xp_earned": 2
+    },
+    {
+      "id": 7,
+      "user_id": "1382837970893148170",
+      "channel_id": 1389047190479179826,
+      "join_time": "2025-07-03T21:33:12.531674",
+      "leave_time": "2025-07-03T21:35:24.103787",
+      "duration": 131,
+      "xp_earned": 4
+    },
+    {
+      "id": 8,
+      "user_id": "1382837970893148170",
+      "channel_id": 1390481458405179433,
+      "join_time": "2025-07-04T00:03:20.235163",
+      "leave_time": "2025-07-04T00:03:23.481878",
+      "duration": 3,
+      "xp_earned": 0
+    },
+    {
+      "id": 9,
+      "user_id": "1382837970893148170",
+      "channel_id": 1390481458405179433,
+      "join_time": "2025-07-04T00:46:37.082938",
+      "leave_time": "2025-07-04T00:53:40.363933",
+      "duration": 423,
+      "xp_earned": 14
+    },
+    {
+      "id": 10,
+      "user_id": "1390481550272892930",
+      "channel_id": 1390481458405179433,
+      "join_time": "2025-07-04T01:41:37.075852",
+      "leave_time": "2025-07-04T01:42:55.492596",
+      "duration": 78,
+      "xp_earned": 2
+    },
+    {
+      "id": 11,
+      "user_id": "1095399787416801421",
+      "channel_id": 1390481458405179433,
+      "join_time": "2025-07-04T01:41:37.075852",
+      "leave_time": "2025-07-04T01:43:17.338109",
+      "duration": 100,
+      "xp_earned": 2
+    },
+    {
+      "id": 12,
+      "user_id": "1382837970893148170",
+      "channel_id": 1390481458405179433,
+      "join_time": "2025-07-04T01:41:37.075852",
+      "leave_time": "2025-07-04T01:43:19.897463",
+      "duration": 102,
+      "xp_earned": 2
+    }
+  ],
+  "warnings": [],
+  "announcements": [],
+  "game_stats": {},
+  "tickets": {},
+  "ticket_messages": {}
+}

@@ -1,0 +1,49 @@
+{
+    "server_name": "Unreal",
+    "prefix": "-",
+    "welcome_channel_id": 1389016724023808082,
+    "verification_channel_id": 1389673267811454996,
+    "announcement_channel_id": 1389403680763023561,
+    "verified_role_id": 1389039674923679815,
+    "admin_role_ids": [],
+    "moderator_role_ids": [],
+    "voice_rewards": {
+        "enabled": true,
+        "xp_per_minute": 2,
+        "bonus_channels": {},
+        "reward_roles": {
+            "100": "متفاعل",
+            "500": "نشيط",
+            "1000": "عضو مميز",
+            "2500": "خبير الصوت"
+        }
+    },
+    "verification": {
+        "enabled": true,
+        "method": "reaction",
+        "message": "🔒 للحصول على دور العضو المتحقق، يرجى التفاعل مع هذه الرسالة بـ ✅",
+        "emoji": "✅"
+    },
+    "music": {
+        "max_queue_length": 100,
+        "max_duration": 3600,
+        "allow_playlists": true
+    },
+    "moderation": {
+        "log_channel_id": null,
+        "auto_delete_commands": true,
+        "max_warns": 3
+    },
+    "games": {
+        "trivia_rewards": 10,
+        "word_game_rewards": 5,
+        "daily_challenges": true
+    },
+    "tickets": {
+        "enabled": true,
+        "category_id": 1389778877831975045,
+        "support_role_ids": [],
+        "log_channel_id": null,
+        "max_tickets_per_user": 3
+    }
+}
